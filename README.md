@@ -1,3 +1,3 @@
 # Store
 
-A simple implementation of mvc app using python and sql language.
+A simple implementation of mvc on project using python language and sql language.
